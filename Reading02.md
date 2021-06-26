@@ -30,7 +30,7 @@ We have 6 levels of heading.
 * You should write comments to explain what your code does , using \ * for the multi-line comment and \ \ for a single comment.
 * JavaScript distinguishes between numbers, strings, and true or false values known as Booleans.
 * An array is a special type of variable. It doesn't just store one value; it stores a list of values.  
- ## Decisions and Loops:
- * There are Two components to a decision:
+### Decisions and Loops:
+* There are Two components to a decision:
  1. An expression is eva;uated, which returns a value.
  2. A conditional statment syas what to do .

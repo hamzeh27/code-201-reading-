@@ -1,7 +1,7 @@
 ## Block-level elements:start on a new line Examples include:
 *<h1> <p> <ul> <li>*
 ## Inline elements flow in between surrounding textExamples include:
-*<img> <b> <i>
+ <img> <b> <i>
 ## Containing Elements If one block-level element sits inside another block-level element then the outer box is 
 ## known as the containing or parent element## CSS has the following positioning schemes that allow you to control .
 **CSS has the following positioning schemes that allow you to control 

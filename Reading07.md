@@ -16,8 +16,9 @@
     
     
 # Table
-*** The <table element is used to create a table.***
-** The contentsof the table are written out row by row.**
-* The tr stands for table row.*
-* The td stands for table data.*
+**The <table element is used to create a table.**
+
+**The contentsof the table are written out row by row.**
+* The tr stands for table row.
+* The td stands for table data.
    
